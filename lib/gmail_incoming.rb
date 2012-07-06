@@ -1,4 +1,5 @@
 require "gmail_incoming/version"
+require 'gmail'
 
 module GmailIncoming
 
